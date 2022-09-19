@@ -1,0 +1,23 @@
+{
+  "name": "dessign-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juangrassob/DesignPatterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juangrassob/DesignPatterns/issues"
+  },
+  "homepage": "https://github.com/juangrassob/DesignPatterns#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
